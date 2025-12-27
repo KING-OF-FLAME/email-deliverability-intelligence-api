@@ -1,0 +1,60 @@
+[22-Dec-2025 18:49:21 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: strtolower(): Argument #1 ($string) must be of type string, array given in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php:26
+Stack trace:
+#0 E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php(26): strtolower(Array)
+#1 E:\xampp\htdocs\Test\2\email-deliverability-api\public\index.php(96): ProviderDetector->detect(Array)
+#2 {main}
+  thrown in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php on line 26
+[22-Dec-2025 18:49:25 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: strtolower(): Argument #1 ($string) must be of type string, array given in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php:26
+Stack trace:
+#0 E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php(26): strtolower(Array)
+#1 E:\xampp\htdocs\Test\2\email-deliverability-api\public\index.php(96): ProviderDetector->detect(Array)
+#2 {main}
+  thrown in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php on line 26
+[22-Dec-2025 18:49:54 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: strtolower(): Argument #1 ($string) must be of type string, array given in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php:26
+Stack trace:
+#0 E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php(26): strtolower(Array)
+#1 E:\xampp\htdocs\Test\2\email-deliverability-api\public\index.php(96): ProviderDetector->detect(Array)
+#2 {main}
+  thrown in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php on line 26
+[22-Dec-2025 18:49:56 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: strtolower(): Argument #1 ($string) must be of type string, array given in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php:26
+Stack trace:
+#0 E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php(26): strtolower(Array)
+#1 E:\xampp\htdocs\Test\2\email-deliverability-api\public\index.php(96): ProviderDetector->detect(Array)
+#2 {main}
+  thrown in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php on line 26
+[22-Dec-2025 18:49:56 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: strtolower(): Argument #1 ($string) must be of type string, array given in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php:26
+Stack trace:
+#0 E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php(26): strtolower(Array)
+#1 E:\xampp\htdocs\Test\2\email-deliverability-api\public\index.php(96): ProviderDetector->detect(Array)
+#2 {main}
+  thrown in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php on line 26
+[22-Dec-2025 18:49:56 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: strtolower(): Argument #1 ($string) must be of type string, array given in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php:26
+Stack trace:
+#0 E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php(26): strtolower(Array)
+#1 E:\xampp\htdocs\Test\2\email-deliverability-api\public\index.php(96): ProviderDetector->detect(Array)
+#2 {main}
+  thrown in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php on line 26
+[22-Dec-2025 18:49:56 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: strtolower(): Argument #1 ($string) must be of type string, array given in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php:26
+Stack trace:
+#0 E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php(26): strtolower(Array)
+#1 E:\xampp\htdocs\Test\2\email-deliverability-api\public\index.php(96): ProviderDetector->detect(Array)
+#2 {main}
+  thrown in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php on line 26
+[22-Dec-2025 18:50:25 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: strtolower(): Argument #1 ($string) must be of type string, array given in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php:26
+Stack trace:
+#0 E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php(26): strtolower(Array)
+#1 E:\xampp\htdocs\Test\2\email-deliverability-api\public\index.php(96): ProviderDetector->detect(Array)
+#2 {main}
+  thrown in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php on line 26
+[22-Dec-2025 18:51:21 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: strtolower(): Argument #1 ($string) must be of type string, array given in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php:26
+Stack trace:
+#0 E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php(26): strtolower(Array)
+#1 E:\xampp\htdocs\Test\2\email-deliverability-api\public\index.php(96): ProviderDetector->detect(Array)
+#2 {main}
+  thrown in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php on line 26
+[22-Dec-2025 18:51:24 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: strtolower(): Argument #1 ($string) must be of type string, array given in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php:26
+Stack trace:
+#0 E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php(26): strtolower(Array)
+#1 E:\xampp\htdocs\Test\2\email-deliverability-api\public\index.php(96): ProviderDetector->detect(Array)
+#2 {main}
+  thrown in E:\xampp\htdocs\Test\2\email-deliverability-api\src\ProviderDetector.php on line 26
