@@ -1,4 +1,4 @@
-# 📧 Email Deliverability Intelligence API 🚀
+# 📧 Email Deliverability Intelligence API 
 
 <p align="center">
   <a href="https://github.com/KING-OF-FLAME/email-deliverability-intelligence-api">
@@ -33,7 +33,7 @@
 Most email validators only check if an address exists. This API solves the real problem: **Deliverability**. It analyzes the technical setup of the sender's domain to calculate the risk of hitting the spam folder.
 
 <p align="center">
-  <img src="path/to/your/screenshot.png" alt="API Analysis Example" width="800">
+  <img src="https://i.ibb.co/WvxB9pNG/Screenshot-2025-12-23-005911.png" alt="API Analysis Example" width="800">
   <br>
   <i>(Visualizing the infrastructure analysis and risk scoring)</i>
 </p>
