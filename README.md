@@ -1,20 +1,42 @@
 # 📧 Email Deliverability Intelligence API 🚀
 
-A professional, robust **PHP API designed to analyze email addresses** beyond simple syntax checks. This tool evaluates the underlying domain infrastructure, authentication protocols, and reputation signals to predict whether an email will land in the inbox or the spam folder.
+<p align="center">
+  <a href="https://github.com/KING-OF-FLAME/email-deliverability-intelligence-api">
+    <img src="path/to/your/logo.png" alt="Logo" width="150" height="150">
+  </a>
+</p>
 
 <p align="center">
+  A professional, robust **PHP API designed to analyze email addresses** beyond simple syntax checks. This tool evaluates the underlying domain infrastructure, authentication protocols, and reputation signals to predict whether an email will land in the inbox or the spam folder.
+  <br>
+  <br>
   <i>(Ensure your emails reach their intended destination with advanced analysis.)</i>
 </p>
 
-[![PHP](https://img.shields.io/badge/PHP-8.0%2B-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
-[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/YOUR-USERNAME)
+
+<p align="center">
+  <a href="https://www.php.net/">
+    <img src="https://img.shields.io/badge/PHP-8.0%2B-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
+  </a>
+  <a href="https://github.com/KING-OF-FLAME">
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" alt="Maintenance">
+  </a>
+</p>
 
 ---
 
 ## About The Project 📍
 
 Most email validators only check if an address exists. This API solves the real problem: **Deliverability**. It analyzes the technical setup of the sender's domain to calculate the risk of hitting the spam folder.
+
+<p align="center">
+  <img src="path/to/your/screenshot.png" alt="API Analysis Example" width="800">
+  <br>
+  <i>(Visualizing the infrastructure analysis and risk scoring)</i>
+</p>
 
 **Key Concepts:**
 * **Beyond Validation:** Moving from "Is this email valid?" to "Will this email get delivered?"
