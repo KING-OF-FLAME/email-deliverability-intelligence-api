@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/KING-OF-FLAME/email-deliverability-intelligence-api">
-    <img src="path/to/your/logo.png" alt="Logo" width="150" height="150">
+    <img src="https://i.ibb.co/R4k00DrY/Email-Deliverability-Intelligence-API.jpg" alt="Logo" width="150" height="150">
   </a>
 </p>
 
