@@ -61,7 +61,7 @@ You can deploy this API on any standard web server supporting PHP (Apache/Nginx)
 
 1.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/email-deliverability-intelligence-api.git](https://github.com/YOUR-USERNAME/email-deliverability-intelligence-api.git)
+    git clone https://github.com/KING-OF-FLAME/email-deliverability-intelligence-api.git
     ```
 2.  **Move Files:**
     Place the project folder onto your web server (e.g., `/var/www/html/api`).
@@ -95,7 +95,8 @@ Set up your environment settings, API keys (if adding external services later), 
 
 ### 2. Adjusting Scoring (`config/weights.php`)
 Control how heavily different factors impact the final deliverability score.
-```php
+
+```
 // Example snippet from weights.php
 return [
     'spf_present' => 20,
@@ -103,14 +104,17 @@ return [
     'domain_age_years' => 5,
     // ...
 ];
+```
+### 3. Managing Providers & Disposable Domains
 
-3. Managing Providers & Disposable Domains
+```
 config/providers.php: Define known email service provider MX signatures.
-
 config/disposable.php: Update the list of known throwaway email domains.
+```
 
 📂 Folder Structure
-```text
+
+```
 email-deliverability-api/
 ├── config/             # Configuration files
 │   ├── config.php      # Main app config
@@ -136,22 +140,19 @@ email-deliverability-api/
 ├── storage/            # Local file storage
 │   └── cache/          # Cache files location
 └── .gitignore          # Git ignore rules
-```text
-
-🤝 Contributions
+```
+---
+### 🤝 Contributions
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-Fork the Project.
+1) Fork the Project.
+2) Create your Feature Branch (git checkout -b feature/AmazingFeature).
+3) Commit your Changes (git commit -m 'Add some AmazingFeature').
+4) Push to the Branch (git push origin feature/AmazingFeature).
+5) Open a Pull Request.
+---
+## 📧 Contact
 
-Create your Feature Branch (git checkout -b feature/AmazingFeature).
-
-Commit your Changes (git commit -m 'Add some AmazingFeature').
-
-Push to the Branch (git push origin feature/AmazingFeature).
-
-Open a Pull Request.
-
-📧 Contact
-Your Name - @twitter_handle - email@example.com
-
-Project Link: https://github.com/YOUR-USERNAME/email-deliverability-intelligence-api
+Github: [KING OF FLAME](https://github.com/KING-OF-FLAME)
+Instagram: [yash.developer](https://instagram.com/yash.developer)
+---
